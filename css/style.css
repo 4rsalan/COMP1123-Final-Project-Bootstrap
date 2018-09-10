@@ -7,7 +7,7 @@ header,
 
 body{
     padding-top: 56px;
-    background: fixed center url("../img/bg-6.jpg");
+    background: fixed center no-repeat url("../img/bg-6.jpg");
 }
 
 html{
